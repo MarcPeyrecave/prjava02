@@ -13,4 +13,4 @@ RESPOSTES
 6.La puc veure ja que estic en la branca en que s'ha fet la modificació.
 7.La puc al geany, ja que el document local ha sigut modificat. Però els canvis a la branca anterior s'han descartat al no fer add ni commit.
 12c.Per què s'ha fet un push només de la branca main. 
-14c.
+14c.Es troba a un commit de distancia.
