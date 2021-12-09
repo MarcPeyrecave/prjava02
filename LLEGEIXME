@@ -1,0 +1,16 @@
+INSTRUCCIONS
+1.
+  a)git branch branca00 
+  b)git checkout branca00
+  c)git status
+5.git branch main // git status // git log
+  hi ha un commit de diferencia.
+7.git branch branca00
+10b.git merge branca00
+12.git push origin main
+14a.git push origin branca01
+RESPOSTES
+6.La puc veure ja que estic en la branca en que s'ha fet la modificació.
+7.La puc al geany, ja que el document local ha sigut modificat. Però els canvis a la branca anterior s'han descartat al no fer add ni commit.
+12c.Per què s'ha fet un push només de la branca main. 
+14c.
